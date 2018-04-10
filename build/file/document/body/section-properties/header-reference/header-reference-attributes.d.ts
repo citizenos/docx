@@ -1,4 +1,4 @@
-import { XmlAttributeComponent } from "file/xml-components";
+import { XmlAttributeComponent } from "../../../../../file/xml-components";
 export interface IHeaderReferenceAttributes {
     type: string;
     id: string;

@@ -1,6 +1,6 @@
 /// <reference types="express" />
 import * as express from "express";
-import { File } from "file";
+import { File } from "../../file";
 import { IPacker } from "./packer";
 export declare class ExpressPacker implements IPacker {
     private readonly res;

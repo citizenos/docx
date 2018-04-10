@@ -1,4 +1,4 @@
-import { IXmlableObject, XmlComponent } from "file/xml-components";
+import { IXmlableObject, XmlComponent } from "../../file/xml-components";
 import { Paragraph } from "../paragraph";
 import { WidthTypes } from "./properties";
 export declare class Table extends XmlComponent {

@@ -1,6 +1,6 @@
-import { IMediaData } from "file/media";
-import { Num } from "file/numbering/num";
-import { XmlComponent } from "file/xml-components";
+import { IMediaData } from "../../file/media";
+import { Num } from "../../file/numbering/num";
+import { XmlComponent } from "../../file/xml-components";
 import { PictureRun, Run, TextRun } from "./run";
 import { ISpacingProperties } from "./formatting/spacing";
 export declare class Paragraph extends XmlComponent {

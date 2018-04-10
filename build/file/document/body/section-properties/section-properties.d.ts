@@ -1,4 +1,4 @@
-import { XmlComponent } from "file/xml-components";
+import { XmlComponent } from "../../../../file/xml-components";
 import { IColumnsAttributes } from "./columns/columns-attributes";
 import { IDocGridAttributesProperties } from "./doc-grid/doc-grid-attributes";
 import { IPageMarginAttributes } from "./page-margin/page-margin-attributes";
